@@ -4,11 +4,15 @@ Use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to to anal
 
 The dataset for this project can be found on the UCI Machine Learning Repository. We have excluded the 'Channel' and 'Region' features to focus the product categories recorded for customers.
 
-[Data Set](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers)
+[Wholesale customers Data Set (USI)](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers)
+
+[Data Set Info](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/UCI%20Dataset%20Source.PNG)
 
 ## Link to Analysis and Code
 
-[Customer Segmentation](http://localhost:8890/notebooks/Portfolio/Retail%20Customer%20Segmentation/Retail-Customer-Segmentation/Retail_customer_segmentation_for_AB_testing.ipynb)
+[Customer Segmentation Analysis](http://localhost:8890/notebooks/Portfolio/Retail%20Customer%20Segmentation/Retail-Customer-Segmentation/Retail_customer_segmentation_for_AB_testing.ipynb)
+
+[Customer Clusters](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail%20Customer%20Clusters.PNG)
 
 ### Prerequisites
 
