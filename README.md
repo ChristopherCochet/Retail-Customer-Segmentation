@@ -1,6 +1,6 @@
 # Customer Segmentation (Retail)
 
-Use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased
+Use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased
 
 The dataset for this project can be found on the UCI Machine Learning Repository. We have excluded the 'Channel' and 'Region' features to focus the product categories recorded for customers.
 
