@@ -10,7 +10,7 @@ The dataset for this project can be found on the UCI Machine Learning Repository
 
 ## Link to Analysis and Code
 
-[>>> Customer Segmentation Analysis](http://localhost:8890/notebooks/Portfolio/Retail%20Customer%20Segmentation/Retail-Customer-Segmentation/Retail_customer_segmentation_for_AB_testing.ipynb)
+[>>> Customer Segmentation Python Analysis](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail_customer_segmentation_for_AB_testing.ipynb)
 
 ![Customer Clusters](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail%20Customer%20Clusters.PNG)
 
@@ -28,3 +28,4 @@ Sklearn
 ## Authors
 
 * **Chris Cochet** - *Initial work* - [Chris Cochet](https://github.com/ChristopherCochet)
+* **Udacity** - *Viz Utility Functions* - [Visual.py](https://github.com/udacity)
