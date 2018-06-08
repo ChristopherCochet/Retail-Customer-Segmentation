@@ -8,7 +8,7 @@ The dataset for this project can be found on the UCI Machine Learning Repository
 
 ![Data Set Info](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/UCI%20Dataset%20Source.PNG)
 
-## Link to Analysis and Code
+## Link to Analysis and Python Code (Jupyter Notebook)
 
 [>>> Customer Segmentation Python Analysis](https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail_customer_segmentation_for_AB_testing.ipynb)
 
